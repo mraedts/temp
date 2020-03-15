@@ -2,5 +2,6 @@
   { name: "Kiwi's", quantity: 4 },
   { name: 'Toilet paper', quantity: 500 },
   { name: 'Almond milk', quantity: 2 },
+  { name: 'Strawberries', quantity: 3 },
   { name: 'Strawberries', quantity: 3 }
 ]
